@@ -7,7 +7,7 @@
   
 - 🌱 I’m currently learning **Java, C/C++, PHP, HTML, CSS**
 
-- 👨‍💻 All of my projects are available at [**itch.io**](https://zdevelopment.itch.io/)
+- 👨‍💻 All of my games are available at [**itch.io**](https://zdevelopment.itch.io/)
 
 - 📫 How to reach me **mail.bagusperwira@gmail.com**
 
