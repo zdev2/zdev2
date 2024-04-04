@@ -5,9 +5,9 @@
 </a>
 <p>>>-----------------------------------------------------------------<<</p>
   
-- 🌱 I’m currently learning **Java, C/C++, PHP, HTML, CSS**
+- 🌱 I’m currently learning **C#, C/C++, GO, HTML, CSS**
 
-- 👨‍💻 All of my games are available at [**itch.io**](https://zdevelopment.itch.io/)
+- 👨‍💻 All of my games are available at [**itch.io**](https://killthestudio.itch.io/)
 
 - 📫 How to reach me **mail.bagusperwira@gmail.com**
 
