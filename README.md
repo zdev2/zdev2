@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on VOX3 and Freelance<br><br>🌱 I’m currently learning Python, Java, PHP, Js<br><br>👨‍💻 All of my games are available at [**itch.io**](https://killthestudio.itch.io/)<br><br>📫 How to reach me  [**> Click Here! <**](mailto:mail.bagusperwira@gmail.com)</p>
+🔭 I’m currently working on VOX3 and Freelance<br><br>🌱 I’m currently learning Python, Java, PHP, Js<br><br>👨‍💻 All of my games are available at [**itch.io**](https://killthestudio.itch.io/)<br><br>📫 How to reach me  [**> Click Here! <**](mailto:mail.bagusperwira@gmail.com)</p>
 
 ###
 
