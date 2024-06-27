@@ -6,11 +6,11 @@
 
 ###
 
-🔭 I’m currently working on My Home<br><br>🌱 I’m currently learning C/C++, GO, Java, Kotlin<br><br>👨‍💻 All of my games are available at [**itch.io**](https://killthestudio.itch.io/) (not released yet)<br><br>📫 How to reach me  [**> Click Here! <**](mailto:mail.bagusperwira@gmail.com)</p>
+<p align="left">🔭 I’m currently working on **Home**<br><br>🌱 I’m currently learning **React, GoLang, Express.js**<br><br>👨‍💻 All of my games are available at [**itch.io**](https://killthestudio.itch.io/) (not released yet)<br><br>📫 How to reach me  [**> Click Here! <**](mailto:mail.bagusperwira@gmail.com)</p>
 
 ###
 
-<hr></hr>
+<p align="left"><hl></p>
 
 ###
 
@@ -47,18 +47,10 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ae" height="40" alt="adobeaftereffects logo"  />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
 </div>
-
-###
-
-<hr></hr>
 
 ###
 
@@ -73,7 +65,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/bagus-perwira" target="_blank">
+  <a href="www.linkedin.com/in/bagus-perwira" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.youtube.com/@bagusbilek" target="_blank">
