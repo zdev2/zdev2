@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on <b>Home</b><br><br>🌱 I’m currently learning <b>React, GoLang, Express.js</b><br><br>👨‍💻 All of my games are available at <a href="https://killthestudio.itch.io" target="_blank">itch.io</a> (not released yet) <br><br>📫 How to reach me  <a href="mailto:mail.bagusperwira@gmail.com" target="_blank">>Click Here<</a></p>
+<p align="left">🔭 I’m currently working on <b>Home</b><br><br>🌱 I’m currently learning <b>React, GoLang, MongoDB</b><br><br>👨‍💻 All of my games are available at <a href="https://killthestudio.itch.io" target="_blank">itch.io</a> (not released yet) <br><br>📫 How to reach me  <a href="mailto:mail.bagusperwira@gmail.com" target="_blank">>Click Here<</a></p>
 
 ###
 
