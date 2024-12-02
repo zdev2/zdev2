@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">Frontend & Backend Developer</h4>
+<h4 align="center">Backend Developer</h4>
 
 ###
 
