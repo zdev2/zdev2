@@ -2,11 +2,11 @@
 
 ###
 
-<h3 align="left">Software Engineer</h3>
+<h3 align="left">Software Engineer, Photographer, Videographer</h3>
 
 ###
 
-<p align="left">Turning ideas into code and gadgets.</p>
+<p align="left">Turning ideas into code or something</p>
 
 ###
 
